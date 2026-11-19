@@ -1,7 +1,0 @@
-name: probe
-on: push
-jobs:
-  hi:
-    runs-on: macos-15
-    steps:
-      - run: echo ok
